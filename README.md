@@ -230,7 +230,7 @@ Em um sistema real de comércio eletrônico, outras informações poderiam ser a
 
 Link do vídeo:
 
-`ADICIONAR LINK DO VÍDEO AQUI`
+[Assistir ao vídeo pitch no YouTube](https://youtu.be/vRMol6Qo1VQ)
 
 ## Autor
 
